@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Sriracha", cursive;
+}
+.carousel-item{
+    height: 700px;
+}
+/* รูปภาพ */
+.carousel-image-1{
+    background-image: url(img/artificial-intelligence-3382507_640.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/artificial-intelligence-4389372_640.jpg);
+    background-size: cover;
+}
+.carousel-image-1{
+    background-image: url(img/earth-3537401_640.jpg);
+    background-size: cover;
+}
